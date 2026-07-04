@@ -7,7 +7,7 @@ SITE LINK: https://www.outerboundspictures.com/
 
 This repo is part of Git Integration & Wix CLI, a set of tools that allows you to write, test, and publish code for  Wix site locally on your computer. 
 
-THIS PROJECT WAS DESIGNED & DEVELOPED BY FULL STACK WEB DEVELOPER - KARLTUN MORENO
+THIS PROJECT WAS DESIGNED & DEVELOPED BY FULL STACK WEB DEVELOPER - Max Karltun
 
 ______________________________________________________________________________________________________________________________________________________________________
 ## Specialized Technologies :
