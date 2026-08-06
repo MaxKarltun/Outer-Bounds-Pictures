@@ -1,5 +1,3 @@
-![Ss](https://media.licdn.com/dms/image/D5622AQEuIbWikSDMfw/feedshare-shrink_2048_1536/0/1719198416670?e=1721865600&v=beta&t=M5fHf10q7PqBLd9NBuk94DyVgCGqNze_pFT4448E8x4)
-
 # Outer Bounds Pictures
 
 **Live Site:** https://www.outerboundspictures.com/
@@ -7,6 +5,8 @@
 A cinematic, modern web experience for **Outer Bounds Pictures**, designed and developed by **Max Karltun**. This repository powers a visually driven brand presence built with Wix Git Integration and enhanced front-end tooling for local development, customization, and deployment.
 
 ---
+
+![App Screenshot](auto.png)
 
 ## About the Project
 
