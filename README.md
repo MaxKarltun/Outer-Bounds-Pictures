@@ -1,6 +1,6 @@
 # Outer Bounds Pictures
 
-**Live Site:** https://www.outerboundspictures.com/
+
 
 A cinematic, modern web experience for **  Outer Bounds Pictures,  AKA AUTONOMOUS **, designed and developed by **  Max Karltun **. This repository powers a visually driven brand presence built with Wix Git Integration and enhanced front-end tooling for local development, customization, and deployment.
 
